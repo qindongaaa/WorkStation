@@ -84,7 +84,7 @@ yarn run lint
 
 ### 测试用户名密码
 1. admin/123456
-2. guest/123456
+2. guest/123456   
 
 ## 许可证
 
